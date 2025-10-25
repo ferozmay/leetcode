@@ -6,7 +6,9 @@ _A private repository because some failures are too embarrassing to be public_
 
 </div>
 
-![cat_code_gif](gifs/cat_matrix.gif)
+<div align="center">
+  <img src="gifs/cat_matrix.gif" alt="cat coding" width="300"/>
+</div>
 
 ---
 
