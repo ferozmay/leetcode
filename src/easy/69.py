@@ -17,6 +17,14 @@ class Solution:
         
         # Iterate until a*a is no longer greater than x
         while a > x // a:
+            print("Loop iteration")
+            print(a)
             a = (a + x // a) // 2
-            
+            print(a)
+            print()
         return a
+    
+
+
+sol = Solution()
+print(sol.mySqrt(100))  # Expected output: 2
