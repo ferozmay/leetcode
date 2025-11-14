@@ -1,4 +1,4 @@
-# leetcode attempts (for fun)
+# leetcoding
 
 <div align="center">
   <img src="gifs/cat_matrix.gif" alt="cat coding" width="300"/>
